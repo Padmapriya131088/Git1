@@ -17,3 +17,5 @@ resource "aws_cloud9_environment_ec2" "test" {
   image_id      = "amazonlinux-2023-x86_64"
   
   }
+
+check
